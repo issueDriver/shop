@@ -8,125 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ef2f7b-7b29-49b8-8345-e94b5752cd66" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_52.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hashids_hashids_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/CartMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/CategoryMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/OrderItemMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/OrderMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/PayInfoMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/ProductMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/ShippingMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/dao/UserMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/Cart.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/Category.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/Order.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/OrderItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/PayInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/Shipping.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/shop/pojo/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/CategoryMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/OrderItemMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/OrderMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/PayInfoMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ShippingMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mmall.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/applicationContext-datasource.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/CartMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/CategoryMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/OrderItemMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/OrderMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/PayInfoMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/ProductMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/ShippingMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/dao/UserMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/Cart.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/Category.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/Order.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/OrderItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/PayInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/Product.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/Shipping.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/shop/pojo/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/datasource.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/logback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/CartMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/CategoryMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/OrderItemMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/OrderMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/PayInfoMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/ProductMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/ShippingMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mmall.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/shop.war" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/shop/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/shop/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/shop/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/shop_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shop_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/shop.iml" afterPath="$PROJECT_DIR$/shop.iml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -195,8 +77,8 @@
       <file leaf-file-name="Cart.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shop/pojo/Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="-4348">
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -336,7 +218,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="19" />
     <option name="y" value="5" />
     <option name="width" value="1264" />
@@ -1032,15 +914,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1344,7 +1217,7 @@
       <workItem from="1551878596377" duration="1301000" />
       <workItem from="1552099718070" duration="20230000" />
       <workItem from="1552200041241" duration="1707000" />
-      <workItem from="1552480539104" duration="4183000" />
+      <workItem from="1552480539104" duration="5170000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1551623607401</created>
@@ -1357,7 +1230,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46291000" />
+    <option name="totallyTimeSpent" value="47278000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1369,7 +1242,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1383,15 +1256,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34133792" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43740094" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761577" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18095239" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24871355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36020583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24281392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45797598" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27685326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1401,7 +1275,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43740094" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1822,8 +1695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shop/pojo/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="-4348">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
